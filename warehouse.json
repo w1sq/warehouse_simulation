@@ -1,0 +1,272 @@
+{
+    "1": {
+        "a": {
+            "color": "gray"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "red"
+        },
+        "d": {
+            "color": "gray"
+        },
+        "e": {
+            "color": "red"
+        },
+        "f": {
+            "color": "gray"
+        },
+        "g": {
+            "color": "red"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "gray"
+        }
+    },
+    "2": {
+        "a": {
+            "color": "gray"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "green"
+        },
+        "d": {
+            "color": "gray"
+        },
+        "e": {
+            "color": "green"
+        },
+        "f": {
+            "color": "gray"
+        },
+        "g": {
+            "color": "green"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "gray"
+        }
+    },
+    "3": {
+        "a": {
+            "color": "yellow",
+            "number": "1"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "white"
+        },
+        "d": {
+            "color": "white"
+        },
+        "e": {
+            "color": "white"
+        },
+        "f": {
+            "color": "white"
+        },
+        "g": {
+            "color": "white"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "yellow",
+            "number": "9"
+        }
+    },
+    "4": {
+        "a": {
+            "color": "gray"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "white"
+        },
+        "d": {
+            "color": "white"
+        },
+        "e": {
+            "color": "white"
+        },
+        "f": {
+            "color": "white"
+        },
+        "g": {
+            "color": "white"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "gray"
+        }
+    },
+    "5": {
+        "a": {
+            "color": "yellow",
+            "number": "2"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "white"
+        },
+        "d": {
+            "color": "white"
+        },
+        "e": {
+            "color": "white"
+        },
+        "f": {
+            "color": "white"
+        },
+        "g": {
+            "color": "white"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "yellow",
+            "number": "8"
+        }
+    },
+    "6": {
+        "a": {
+            "color": "gray"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "white"
+        },
+        "d": {
+            "color": "white"
+        },
+        "e": {
+            "color": "white"
+        },
+        "f": {
+            "color": "white"
+        },
+        "g": {
+            "color": "white"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "gray"
+        }
+    },
+    "7": {
+        "a": {
+            "color": "yellow",
+            "number": "3"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "white"
+        },
+        "d": {
+            "color": "white"
+        },
+        "e": {
+            "color": "white"
+        },
+        "f": {
+            "color": "white"
+        },
+        "g": {
+            "color": "white"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "yellow",
+            "number": "6"
+        }
+    },
+    "8": {
+        "a": {
+            "color": "gray"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "gray"
+        },
+        "d": {
+            "color": "gray"
+        },
+        "e": {
+            "color": "gray"
+        },
+        "f": {
+            "color": "gray"
+        },
+        "g": {
+            "color": "gray"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "gray"
+        }
+    },
+    "9": {
+        "a": {
+            "color": "blue"
+        },
+        "b": {
+            "color": "gray"
+        },
+        "c": {
+            "color": "yellow",
+            "number": "4"
+        },
+        "d": {
+            "color": "gray"
+        },
+        "e": {
+            "color": "yellow",
+            "number": "7"
+        },
+        "f": {
+            "color": "gray"
+        },
+        "g": {
+            "color": "yellow",
+            "number": "5"
+        },
+        "h": {
+            "color": "gray"
+        },
+        "i": {
+            "color": "blue"
+        }
+    }
+}
