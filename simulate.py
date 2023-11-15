@@ -35,6 +35,10 @@ class WareHouse:
         logging.info("Robot is dropping off a cargo")
         yield self.env.timeout(1)
 
+    def charge_up(self, task):
+        logging.info("Robot is charging")
+        yield self.env.timeout(...)  # need to get robot battery
+
 
 def task(simpy_env, task_number, warehouse):
     global tasks_done
