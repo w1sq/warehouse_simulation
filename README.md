@@ -1,4 +1,4 @@
-# Simulation
+# Warehouse simulation
 
 It is educational project where I am trying to simulate processes of robots working in warehouse
 
